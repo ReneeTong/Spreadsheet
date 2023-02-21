@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+Ber+7SJ31BYvcpeTYoKENrifDd+X8Qio2j4tkLkhmjFDwcWrY87ASZz1+hJ8txhwjAKpM0y1f3QRsAZoGtKg==",
+  "success": true,
+  "projectFilePath": "/Users/reneetong/Projects/Spreadsheet/Spreadsheet/FormulaEvaluator/FormulaEvaluator.csproj",
+  "expectedPackageFiles": [
+    "/Users/reneetong/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
